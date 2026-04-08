@@ -1,5 +1,5 @@
 # CBSE_Question_papers
-if we want to load multiple pdfs then app_working and extract
+if we want to load multiple pdfs then download app_working.zip and extract
 then go to the app folder and open terminal 
  cd "C:\Users\Dev-Laptop1\Desktop\app"
   python -m http.server 8000
