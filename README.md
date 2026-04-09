@@ -11,5 +11,5 @@ then go to the app folder and open terminal
 
 
 
-  if u want to load only one pdf then use app.zip,extract and run app
+  if u want to load only one pdf then use app.zip,extract and then just open index.html it will open normally
   
